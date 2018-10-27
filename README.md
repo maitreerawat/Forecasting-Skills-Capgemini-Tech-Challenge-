@@ -10,3 +10,4 @@ One of the most critical business compulsions as well as challenges for IXI, is 
 
 IXI maintains, and periodically replenishes a Bench (Inventory) of resources depending upon forecasted demand for the next few quarters. There is a steep cost constraint associated with maintaining this bench (On average $685 per person per month) and hence the company needs to ensure demand forecast is as accurate as possible, so Supply can be planned accordingly. (Maintaining a bench implies absorbing the cost of a resource who is not billable, and hence is an unproductive cost to the company till he/she is allocated to a billable project)
 
+You need to develop a machine-learning based predictive demand model.
