@@ -1,4 +1,4 @@
-# Forecasting-Skills-Capgemini-Tech-Challenge-Data Science
+# Predictive-Demand-Model-Capgemini-Tech-Challenge-Data Science
 
 InterstellarX Inc (IXI) is a company engaged in providing Strategy, Technology, Data sciences and Creative Design services to large global clients.
 
